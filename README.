@@ -1,6 +1,3 @@
-echo "# FlynnDrop" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/sy-garr12/FlynnDrop.git
-git push -u origin master
+#FlynnDrop
+
+Giving this a test run
